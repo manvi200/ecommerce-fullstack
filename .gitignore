@@ -1,5 +1,5 @@
 node_modules/
 .env
 
-Frotend/my-project/node_modules/
-Frotend/my-project/dist/
+my-project/node_modules/
+my-project/dist/
